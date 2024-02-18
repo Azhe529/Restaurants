@@ -15,7 +15,7 @@ To run the Jupyter Notebook successfully, ensure that your Python environment me
 - Required packages: pandas, numpy, requests, matplotlib
 You could install the packages by running the following code in jupyter notebook with the following code
 ```python
-pip install pandas numpy requests matplotlib
+pip install pandas numpy requests matplotlib openpyxl
 ``` 
 
 
